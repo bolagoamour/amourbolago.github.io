@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>My Portfolio</amourGBLAGO>
+</head>
+<body>
+    <h1>Hello, I'm amour GBLAGO!</h1>
+    <p>Welcome to my personal portfolio hosted on GitHub Pages.</p>
+
+    <h2>About Me</h2>
+    <p>I am passionate about UX UI design, développement, écriture.</p>
+
+    <h2>Projects</h2>
+    <ul>
+        <li>Project 1 - Carrousel Linkedin</li>
+        <li>Project 2 - logo JM Trading</li>
+        <li>Project 3 - flyer JM TRADING</li>
+    </ul>
+
+    <h2>Contact</h2>
+    <p>Email: amourbolago4@gmail.com</p>
+</body>
+</html>
